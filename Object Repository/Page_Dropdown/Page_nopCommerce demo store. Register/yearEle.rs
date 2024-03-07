@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yearEle</name>
+   <tag></tag>
+   <elementGuidId>6e7d4213-3820-4314-b666-bc0c82a59347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;DateOfBirthYear&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='DateOfBirthYear']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6bb94d55-c005-44d8-88db-4f12fb2ad8cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>DateOfBirthYear</value>
+      <webElementGuid>5ac569e1-30da-46d0-891e-b7ec4c154f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Year191419151916191719181919192019211922192319241925192619271928192919301931193219331934193519361937193819391940194119421943194419451946194719481949195019511952195319541955195619571958195919601961196219631964196519661967196819691970197119721973197419751976197719781979198019811982198319841985198619871988198919901991199219931994199519961997199819992000200120022003200420052006200720082009201020112012201320142015201620172018201920202021202220232024</value>
+      <webElementGuid>715e3e1b-0665-48a5-957c-37dfa171dfde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;html-registration-page&quot;]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-column-wrapper&quot;]/div[@class=&quot;center-1&quot;]/div[@class=&quot;page registration-page&quot;]/div[@class=&quot;page-body&quot;]/form[1]/div[@class=&quot;fieldset&quot;]/div[@class=&quot;form-fields&quot;]/div[@class=&quot;inputs date-of-birth&quot;]/div[@class=&quot;date-picker-wrapper&quot;]/select[3]</value>
+      <webElementGuid>d05da298-801e-4417-9497-1741c58bcb60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='DateOfBirthYear']</value>
+      <webElementGuid>259a73f7-3d6c-44ed-992f-9764c4857448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of birth:'])[1]/following::select[3]</value>
+      <webElementGuid>ae69588f-ea09-486c-81ff-4c6379bf40bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[3]</value>
+      <webElementGuid>864f3e81-bfa0-4f3a-8bdf-a66c5afb5ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/preceding::select[1]</value>
+      <webElementGuid>6178c621-40e8-4b0a-866d-413f9dcdb0f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>564c3605-80d7-42e3-8eb9-6e8c5f035daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[3]</value>
+      <webElementGuid>6ab036e2-1722-489e-b5dd-93032b843864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'DateOfBirthYear' and (text() = 'Year191419151916191719181919192019211922192319241925192619271928192919301931193219331934193519361937193819391940194119421943194419451946194719481949195019511952195319541955195619571958195919601961196219631964196519661967196819691970197119721973197419751976197719781979198019811982198319841985198619871988198919901991199219931994199519961997199819992000200120022003200420052006200720082009201020112012201320142015201620172018201920202021202220232024' or . = 'Year191419151916191719181919192019211922192319241925192619271928192919301931193219331934193519361937193819391940194119421943194419451946194719481949195019511952195319541955195619571958195919601961196219631964196519661967196819691970197119721973197419751976197719781979198019811982198319841985198619871988198919901991199219931994199519961997199819992000200120022003200420052006200720082009201020112012201320142015201620172018201920202021202220232024')]</value>
+      <webElementGuid>7fa4871f-21bd-4eaf-827e-5d24e2961227</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

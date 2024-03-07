@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MonthEle</name>
+   <tag></tag>
+   <elementGuidId>566256e0-4af7-44d1-858d-30102f16a26b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;DateOfBirthMonth&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='DateOfBirthMonth']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3b8c54b3-91f9-4958-91fd-aab9a0a81c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>DateOfBirthMonth</value>
+      <webElementGuid>b257bdea-93fd-43ea-9b43-b00f411ca5f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember</value>
+      <webElementGuid>264b1dc0-5add-4370-8af5-2c1b73c4505e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;html-registration-page&quot;]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-column-wrapper&quot;]/div[@class=&quot;center-1&quot;]/div[@class=&quot;page registration-page&quot;]/div[@class=&quot;page-body&quot;]/form[1]/div[@class=&quot;fieldset&quot;]/div[@class=&quot;form-fields&quot;]/div[@class=&quot;inputs date-of-birth&quot;]/div[@class=&quot;date-picker-wrapper&quot;]/select[2]</value>
+      <webElementGuid>36f64a15-8e22-436b-bd5f-8388b1d8ccb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='DateOfBirthMonth']</value>
+      <webElementGuid>4d808445-7871-4fb0-a6dd-cc2ce55082ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of birth:'])[1]/following::select[2]</value>
+      <webElementGuid>c8575e96-377d-4f7c-988e-9c602fccc307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[2]</value>
+      <webElementGuid>89ef7825-2bdc-4af6-af4d-ac8da8426246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/preceding::select[2]</value>
+      <webElementGuid>cea1adc5-129f-4130-a5a0-38c7ecf79200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[2]</value>
+      <webElementGuid>2cfa5ab1-b32f-4c76-95f3-60f336e320a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[2]</value>
+      <webElementGuid>9cd86656-1d59-44e7-b0ce-2214de52808d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'DateOfBirthMonth' and (text() = 'MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember' or . = 'MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember')]</value>
+      <webElementGuid>c77c7618-322e-4edc-a56e-b536e2bf9ceb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
